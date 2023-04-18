@@ -1,4 +1,4 @@
-# FletNix
+#### FletNix
 
 FletNix is a movie/show streaming platform. This project imports movies/shows data from a CSV file to JSON and then inserts it into MongoDB. The backend code is implemented using Node.js and the frontend is implemented using Angular.
 
@@ -19,5 +19,5 @@ Node.js
 MongoDB
 Angular
 
-
-## Author Name: Shubham Goswami
+## Author :
+Shubham Goswami
