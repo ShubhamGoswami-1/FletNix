@@ -2,7 +2,7 @@
 
 Fletnix is a movie/show streaming platform. This project imports movies/shows data from a CSV file to JSON and then inserts it into MongoDB. The backend code is implemented using Node.js and the frontend is implemented using Angular.
 
-Authentication:
+# Authentication:
 Authentication of signup and login is implemented using sessions. Password length must be more than 6 characters.
 
 Frontend:
